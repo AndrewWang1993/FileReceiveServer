@@ -1,0 +1,8 @@
+E:\VS WorkSpace\FileRecevie\FileRecevie\bin\Debug\FileRecevie.exe
+E:\VS WorkSpace\FileRecevie\FileRecevie\bin\Debug\FileRecevie.pdb
+E:\VS WorkSpace\FileRecevie\FileRecevie\obj\Debug\FileRecevie.Form1.resources
+E:\VS WorkSpace\FileRecevie\FileRecevie\obj\Debug\FileRecevie.Properties.Resources.resources
+E:\VS WorkSpace\FileRecevie\FileRecevie\obj\Debug\FileRecevie.csproj.GenerateResource.Cache
+E:\VS WorkSpace\FileRecevie\FileRecevie\obj\Debug\FileRecevie.exe
+E:\VS WorkSpace\FileRecevie\FileRecevie\obj\Debug\FileRecevie.pdb
+E:\VS WorkSpace\FileRecevie\FileRecevie\obj\Debug\FileRecevie.csprojResolveAssemblyReference.cache
